@@ -220,9 +220,6 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 - Documentation updates
 - Bug fixes and enhancements
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -235,9 +232,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/DabbiruSunil/FPGA-based-SHA-1-Hardware-accelerator/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/DabbiruSunil/FPGA-based-SHA-1-Hardware-accelerator/discussions)  
-- **Email**: [Contact Author](mailto:your.email@domain.com)
+- **Email**: [Contact Author](sunildabbiru@gmail.com)
 - **Documentation**: [Project Wiki](https://github.com/DabbiruSunil/FPGA-based-SHA-1-Hardware-accelerator/wiki)
 
 ---
 
-⭐ **Star this repository if you find it useful!** ⭐
+
